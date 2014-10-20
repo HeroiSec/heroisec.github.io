@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://HeroiSec.github.io/atom.xml" rel="self"/>
-  <link href="http://HeroiSec.github.io/"/>
-  <updated>2014-10-17T16:14:11-07:00</updated>
-  <id>http://HeroiSec.github.io/</id>
+  <title><![CDATA[HeroiSec]]></title>
+  <link href="http://heroisec.com/atom.xml" rel="self"/>
+  <link href="http://heroisec.com/"/>
+  <updated>2014-10-20T15:08:38-07:00</updated>
+  <id>http://heroisec.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[HeroiSec]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
