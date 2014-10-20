@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://HeroiSec.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://heroisec.com
+title: HeroiSec
+subtitle: Heroic Engagements Advanced Penetration
+author: HeroiSec
 simple_search: https://www.google.com/search
 description:
 
